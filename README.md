@@ -1,1 +1,1 @@
-# sergey-eventes
+# sergey-events
